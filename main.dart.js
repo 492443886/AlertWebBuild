@@ -68929,8 +68929,8 @@ J(a){var s=null,r=4292128567
 return A.I3(A.RA(s,new A.H(4293212469),!0,s,B.M0),B.zZ,A.oP(A.kA(A.a([A.Ey(B.M1,new A.Y4(this,a),A.afW(s,s,new A.ew(new A.H(r),t.h9),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),B.HR,A.Fp(new A.H(r),B.BI,30,new A.Y5(a),s)],t.p),B.b7,B.hF,B.b0),s,s))}}
 A.Y4.prototype={
 $0(){var s,r,q
-A.cQ("URL: http://18.219.152.49:3002/submit")
-this.a.n8("http://18.219.152.49:3002/submit","")
+A.cQ("URL: https://d2.cma074.info/alert/submit")
+this.a.n8("https://d2.cma074.info/alert/submit","")
 s=B.fq.LL(3)+1
 A.cQ(s)
 if(s===1){r=A.vG(new A.Y1(),null,t.z)
